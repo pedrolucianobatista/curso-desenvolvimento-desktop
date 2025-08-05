@@ -1,0 +1,17 @@
+C:\Users\Aluno\Downloads\pedro luciano\SOLUCAO_MEDIA\PRJ_MEDIA\bin\Debug\PRJ_MEDIA.exe.config
+C:\Users\Aluno\Downloads\pedro luciano\SOLUCAO_MEDIA\PRJ_MEDIA\bin\Debug\PRJ_MEDIA.exe
+C:\Users\Aluno\Downloads\pedro luciano\SOLUCAO_MEDIA\PRJ_MEDIA\bin\Debug\PRJ_MEDIA.pdb
+C:\Users\Aluno\Downloads\pedro luciano\SOLUCAO_MEDIA\PRJ_MEDIA\obj\Debug\PRJ_MEDIA.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\pedro luciano\SOLUCAO_MEDIA\PRJ_MEDIA\obj\Debug\PRJ_MEDIA.Properties.Resources.resources
+C:\Users\Aluno\Downloads\pedro luciano\SOLUCAO_MEDIA\PRJ_MEDIA\obj\Debug\PRJ_MEDIA.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\pedro luciano\SOLUCAO_MEDIA\PRJ_MEDIA\obj\Debug\PRJ_MEDIA.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\pedro luciano\SOLUCAO_MEDIA\PRJ_MEDIA\obj\Debug\PRJ_MEDIA.exe
+C:\Users\Aluno\Downloads\pedro luciano\SOLUCAO_MEDIA\PRJ_MEDIA\obj\Debug\PRJ_MEDIA.pdb
+C:\Users\Aluno\Downloads\pedro luciano\SOLUCAO_MEDIA\PRJ_MEDIA\obj\Debug\PRJ_MEDIA.Form1.resources
+C:\Users\Aluno\Downloads\temp\first-gitpod\SOLUCAO_MEDIA\PRJ_MEDIA\bin\Debug\PRJ_MEDIA.exe.config
+C:\Users\Aluno\Downloads\temp\first-gitpod\SOLUCAO_MEDIA\PRJ_MEDIA\obj\Debug\PRJ_MEDIA.exe
+C:\Users\Aluno\Downloads\temp\first-gitpod\SOLUCAO_MEDIA\PRJ_MEDIA\obj\Debug\PRJ_MEDIA.pdb
+C:\Users\Aluno\Downloads\temp\first-gitpod\SOLUCAO_MEDIA\PRJ_MEDIA\obj\Debug\PRJ_MEDIA.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\temp\first-gitpod\SOLUCAO_MEDIA\PRJ_MEDIA\obj\Debug\PRJ_MEDIA.Form1.resources
+C:\Users\Aluno\Downloads\temp\first-gitpod\SOLUCAO_MEDIA\PRJ_MEDIA\obj\Debug\PRJ_MEDIA.Properties.Resources.resources
+C:\Users\Aluno\Downloads\temp\first-gitpod\SOLUCAO_MEDIA\PRJ_MEDIA\obj\Debug\PRJ_MEDIA.csproj.GenerateResource.Cache

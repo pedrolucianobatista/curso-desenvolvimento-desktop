@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AULA31.07\\PRJ_MEDIA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D316D96B-EA4A-484F-AB25-CFEBFED74A61}|PRJ_MEDIA\\PRJ_MEDIA.csproj|E:\\AULA31.07\\PRJ_MEDIA\\prj_media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D316D96B-EA4A-484F-AB25-CFEBFED74A61}|PRJ_MEDIA\\PRJ_MEDIA.csproj|solutionrelative:prj_media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D316D96B-EA4A-484F-AB25-CFEBFED74A61}|PRJ_MEDIA\\PRJ_MEDIA.csproj|e:\\aula31.07\\prj_media\\prj_media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D316D96B-EA4A-484F-AB25-CFEBFED74A61}|PRJ_MEDIA\\PRJ_MEDIA.csproj|solutionrelative:prj_media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D316D96B-EA4A-484F-AB25-CFEBFED74A61}|PRJ_MEDIA\\PRJ_MEDIA.csproj|e:\\aula31.07\\prj_media\\prj_media\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D316D96B-EA4A-484F-AB25-CFEBFED74A61}|PRJ_MEDIA\\PRJ_MEDIA.csproj|solutionrelative:prj_media\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D316D96B-EA4A-484F-AB25-CFEBFED74A61}|PRJ_MEDIA\\PRJ_MEDIA.csproj|E:\\AULA31.07\\PRJ_MEDIA\\prj_media\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D316D96B-EA4A-484F-AB25-CFEBFED74A61}|PRJ_MEDIA\\PRJ_MEDIA.csproj|solutionrelative:prj_media\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D316D96B-EA4A-484F-AB25-CFEBFED74A61}|PRJ_MEDIA\\PRJ_MEDIA.csproj|E:\\AULA31.07\\PRJ_MEDIA\\prj_media\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D316D96B-EA4A-484F-AB25-CFEBFED74A61}|PRJ_MEDIA\\PRJ_MEDIA.csproj|solutionrelative:prj_media\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "E:\\AULA31.07\\PRJ_MEDIA\\PRJ_MEDIA\\Form1.resx",
+              "RelativeDocumentMoniker": "PRJ_MEDIA\\Form1.resx",
+              "ToolTip": "E:\\AULA31.07\\PRJ_MEDIA\\PRJ_MEDIA\\Form1.resx",
+              "RelativeToolTip": "PRJ_MEDIA\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-01T22:05:22.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "E:\\AULA31.07\\PRJ_MEDIA\\PRJ_MEDIA\\Form1.resx",
+              "RelativeDocumentMoniker": "PRJ_MEDIA\\Form1.resx",
+              "ToolTip": "E:\\AULA31.07\\PRJ_MEDIA\\PRJ_MEDIA\\Form1.resx",
+              "RelativeToolTip": "PRJ_MEDIA\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-31T23:09:08.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\AULA31.07\\PRJ_MEDIA\\PRJ_MEDIA\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PRJ_MEDIA\\Form1.Designer.cs",
+              "ToolTip": "E:\\AULA31.07\\PRJ_MEDIA\\PRJ_MEDIA\\Form1.Designer.cs",
+              "RelativeToolTip": "PRJ_MEDIA\\Form1.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T22:58:25.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\AULA31.07\\PRJ_MEDIA\\PRJ_MEDIA\\Form1.cs",
+              "RelativeDocumentMoniker": "PRJ_MEDIA\\Form1.cs",
+              "ToolTip": "E:\\AULA31.07\\PRJ_MEDIA\\PRJ_MEDIA\\Form1.cs [Design]",
+              "RelativeToolTip": "PRJ_MEDIA\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T22:57:10.669Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\AULA31.07\\PRJ_MEDIA\\PRJ_MEDIA\\Form1.cs",
+              "RelativeDocumentMoniker": "PRJ_MEDIA\\Form1.cs",
+              "ToolTip": "E:\\AULA31.07\\PRJ_MEDIA\\PRJ_MEDIA\\Form1.cs",
+              "RelativeToolTip": "PRJ_MEDIA\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAvwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T23:01:14.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
